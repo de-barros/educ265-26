@@ -12,15 +12,15 @@ instructor:
   office: "Education Building, Office 2042"
   contact_policy: >-
     E-mail and Perusall are the best ways to contact me. From Monday to Friday, I will try to respond to all course-related messages within 24 hours. At the same time, my work day may look different than your work day. Please do not feel obligated to respond out of your normal working hours.
-  appointment_url: https://calendly.com/de-barros/
+  appointment_url: https://calendly.com/de-barros/student-hours-andy-de-barros
 
 assistant:
-  name: Tiffany Wu
-  name_no_title: Tiffany Wu
-  email: tiffanw6@uci.edu
-  url: "https://wutiffany.com/"
-  twitter: tiffany_wuuu
-  github:  tiffany_wuuu
+  name: Nicholas J. Ainsworth
+  name_no_title: Nicholas J. Ainsworth
+  email: ainsworn@uci.edu
+  url: "https://scholar.google.com/citations?user=nynKSVUAAAAJ&hl=en"
+  twitter: nick__ainsworth
+  github: nick__ainsworth
   office: "Education Building, Office 2031"
   contact_policy: >-
     E-mail and Perusall are the best ways to contact me. From Monday to Friday, I will try to respond to all course-related messages within 24 hours. At the same time, my work day may look different than your work day. Please do not feel obligated to respond out of your normal working hours.
@@ -36,16 +36,16 @@ attribution:
 
 course:
   number: "EDUC 265"
-  semester: "Winter 2025"
+  semester: "Winter 2026"
   days: "Lecture: Wed. Lab: Thu."
   time: "9:00–11:50AM and 4:00-5:50PM"
   location: "Education Building, Room 2024"
-  dates: "Thu, Jan 08–Mar 21, 2025"
-  github: "https://github.com/de-barros/educ265-25"
+  dates: "Wed, Jan 07–Mar 20, 2026"
+  github: "https://github.com/de-barros/educ265-26"
   url: "https://educ265.de-barros.com"
-  copyright_year: "2025"
-  canvas: "https://canvas.eee.uci.edu/courses/69919"
-  slack: "https://canvas.eee.uci.edu/courses/69919/external_tools/16107?display=borderless"
+  copyright_year: "2026"
+  canvas: "https://canvas.eee.uci.edu/courses/79518"
+  slack: "https://canvas.eee.uci.edu/courses/79518/external_tools/16107?display=borderless"
 
 university:
   name: University of California, Irvine

@@ -75,8 +75,7 @@ xaringan_to_pdf <- function(slide_path) {
   } else {
     renderthis::to_pdf(
       slide_path,
-      to = paste0(path_sans_ext, ".pdf"),
-      complex_slides = TRUE
+      to = paste0(path_sans_ext, ".pdf")
     )
   }
 

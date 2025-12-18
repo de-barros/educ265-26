@@ -2,7 +2,7 @@
 title: "Applied Regression Analysis for Education and Social Scientific Research"
 subtitle: "Apply regression analysis to investigate causal relationships"
 details: |
-  EDUC 265 • Winter 2025<br>School of Education<br>University of California, Irvine
+  EDUC 265 • Winter 2026<br>School of Education<br>University of California, Irvine
 sidebar: false
 toc: false
 page-layout: full
