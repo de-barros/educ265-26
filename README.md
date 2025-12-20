@@ -12,7 +12,7 @@ University of California, Irvine
 **[Quarto](https://quarto.org/) +
 [{targets}](https://docs.ropensci.org/targets/) +
 [{renv}](https://rstudio.github.io/renv/) +
-[{xaringan}](https://github.com/yihui/xaringan) = magic! 🔮**
+[{xaringan}](https://github.com/yihui/xaringan) = magic! 🧝**
 
 ------------------------------------------------------------------------
 
@@ -101,8 +101,10 @@ his class [Gov 50](https://github.com/mattblackwell/gov50-f23-site/). If
 you re-use any of the materials, please respect the licences (see below)
 and give credit to original authors.
 
-A huge thanks to my excellent Teaching Assistants [Juan Camilo
-Cristancho](https://education.uci.edu/phd-cristancho-j.html) and
+A huge thanks to my excellent Teaching Assistants [Nicholas
+Ainsworth](https://scholar.google.com/citations?user=nynKSVUAAAAJ&hl=en),
+[Juan Camilo
+Cristancho](https://education.uci.edu/phd-cristancho-j.html), and
 [Tiffany Wu](https://wutiffany.com/).
 
 I am grateful for additional help and materials from [David

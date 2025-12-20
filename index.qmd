@@ -42,7 +42,7 @@ withr::with_dir(here::here(), {
 - {{< fa user >}} &nbsp; [{{< var assistant.name_no_title >}}]({{< var assistant.url >}})
 - {{< fa university >}} &nbsp; {{< var assistant.office >}}
 - {{< fa envelope >}} &nbsp; <a href="mailto:{{< var assistant.email >}}">{{< var assistant.email >}}</a>
-- {{< fa brands twitter >}} &nbsp; [{{< var assistant.twitter >}}](https://www.twitter.com/{{< var assistant.twitter >}})
+- {{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}} &nbsp; [Bluesky]({{< var assistant.bluesky >}})
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}

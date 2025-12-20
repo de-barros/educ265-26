@@ -57,10 +57,10 @@ website:
       - text: "Resources"
         file: resource/index.qmd
       - text: "{{< iconify academicons publons >}}"
-        href: "https://canvas.eee.uci.edu/courses/69919/external_tools/16107?display=borderless"
+        href: "https://canvas.eee.uci.edu/courses/79518/external_tools/16107?display=borderless"
         aria-label: Perusall
       - text: "{{< iconify simple-icons canvas >}}"
-        href: "https://canvas.eee.uci.edu/courses/69919"
+        href: "https://canvas.eee.uci.edu/courses/79518"
         aria-label: Canvas
 
   sidebar:

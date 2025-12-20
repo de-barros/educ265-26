@@ -78,7 +78,7 @@ In this course, you will be expected to
 - participate in our lab sessions, 
 - do all readings, and discuss them outside of class,
 - complete three practice assignments,
-- write four data-analytic memos,
+- write four data-analytic memos, and discuss them with me in person, 
 - take one in-class exam, 
 - meet with me at least once, and
 - complete two milestones, which lead up to one final paper.
@@ -183,6 +183,8 @@ Over the quarter, you will write four "data-analytic memos" (DAMs). Each DAM wil
 
 As with the practice assignments, you will complete these memos at home, individually. You may (and should!) work together with others, but *you must turn in your own answers.* You cannot work in groups of more than **three** people, and you must note who participated in the group.
 
+In our class, you will learn how to describe your work verbally and communicate its findings. During week 10, you will meet with me one-on-one, in-person, to discuss your assignments and memos with me.  
+
 ### Plus-delta 
 
 Twice during the quarter, I will ask you to complete a survey. At the beginning of the course, your answers will help me better understand your personal background and interests. Towards the middle of the course, I will ask you for feedback on how to improve the course and make changes if needed. Finally, at the end of the quarter, please leave a course evaluation on EEE.
@@ -214,22 +216,23 @@ You can find a detailed class calendar on the [schedule page](/schedule/index.ht
 Here, I am providing a brief summary of the assignment dates.
 
 | Category          | Release date         | Due date            |
-|:------------------|:-------------------|:------------------|
-| Survey 1          | Thu, Jan 01 09:00AM | Mon, Jan 05 11:55PM |
-| Assignment 1      | Wed, Jan 07 09:00AM | Mon, Jan 12 11:55PM |
-| Assignment 2      | Wed, Jan 14 09:00AM | Mon, Jan 19 11:55PM |
-| Assignment 3      | Wed, Jan 21 09:00AM | Mon, Jan 26 11:55PM |
+|:------------------|:---------------------|:--------------------|
+| Survey 1          | Thu, Jan 01 09:00AM  | Mon, Jan 05 11:55PM |
+| Assignment 1      | Wed, Jan 07 09:00AM  | Mon, Jan 12 11:55PM |
+| Assignment 2      | Wed, Jan 14 09:00AM  | Mon, Jan 19 11:55PM |
+| Assignment 3      | Wed, Jan 21 09:00AM  | Mon, Jan 26 11:55PM |
 | Milestone 1       |                      | Sun, Feb 01 11:55PM |
-| DAM 1             | Wed, Jan 28 09:00AM | Mon, Feb 02 11:55PM |
-| Survey 2          | Wed, Feb 04 09:00AM | Sun, Feb 08 11:55PM |
+| DAM 1             | Wed, Jan 28 09:00AM  | Mon, Feb 02 11:55PM |
+| Survey 2          | Wed, Feb 04 09:00AM  | Sun, Feb 08 11:55PM |
 | 1:1 meeting       |                      | Tue, Feb 10 05:00PM |
-| Exam              | Thu, Feb 12 02:30PM | Thu, Feb 12 03:50PM |
-| DAM 2             | Wed, Feb 11 09:00AM | Mon, Feb 16 11:55PM |
+| Exam              | Thu, Feb 12 01:00PM  | Thu, Feb 12 02:50PM |
+| DAM 2             | Wed, Feb 11 09:00AM  | Mon, Feb 16 11:55PM |
 | Milestone 2       |                      | Sun, Mar 01 11:55PM |
-| DAM 3             | Wed, Feb 25 09:00AM | Mon, Mar 01 11:55PM |
-| DAM 4             | Wed, Mar 03 09:00AM | Mon, Mar 08 11:55PM |
-| Course evaluation |                      | Fri, Mar 12 11:50PM |
-| Final paper       |                      | Fri, Mar 19 11:55PM |
+| DAM 3             | Wed, Feb 25 09:00AM  | Mon, Mar 02 11:55PM |
+| DAM 4             | Wed, Mar 04 09:00AM  | Mon, Mar 09 11:55PM |
+| 1:1 discussion    |                      | Fri, Mar 13 05:00PM |
+| Course evaluation |                      | Fri, Mar 13 11:50PM |
+| Final paper       |                      | Fri, Mar 20 11:55PM |
 
 All reading reactions on Perusall are due by 11:55PM on the day before class. All times are in Pacific time.
 
@@ -247,7 +250,7 @@ Here is how each of your various course contributions and assignments contribute
 |:-----------------------------------|:-----------------------|
 | Reading reactions on Perusall      | 9%                     |
 | Participation, surveys, feedback   | 6%                     |
-| Assignments and DAMs               | 30%                    |
+| Assignments and DAMs               | 30% (written, verbal)  |
 | Exam                               | 25%                    |
 | Milestones 1 & 2                   | 2% each                |
 | Your final paper                   | 26%                    |
@@ -273,15 +276,17 @@ We will also follow UCI's [Code of Conduct](https://www.compliance.uci.edu/ethic
 
 Attendance and participation are important to your success in this course. You are expected to come to *all classes* prepared—having read the material—and ready to discuss the content. You are also expected to attend all *all lab sessions*. 
 
-Missing a class has the potential to put you significantly behind. Still, life happens and, therefore, you may miss one class and one lab session without contacting me (except for the midterm exam).
+Missing a class or lab session has the potential to put you significantly behind. Still, life happens and, therefore, you may miss one class and one lab session without contacting me (except for the midterm exam).
 
-If you test positive for COVID-19, hunker down and focus on getting better! Please do not come to class. If you have an absence due to such an unavoidable health or emergency situation, you should message me before class starts. Similarly, if you have to miss a class due to religious reasons, please remember to message me before the affected class starts.
+If you are sick, hunker down and focus on getting better! Please do not come to class. If you have an absence due to such an unavoidable health or emergency situation, you should message me before class (/lab) starts. Similarly, if you have to miss a class or lab due to religious reasons, please remember to message me before the affected class (/lab) starts. At a minimum, to complete the course, you must attend six classes and six lab sessions in person.
 
 You are expected to arrive before the start of each class to allow us to begin on time. Unexcused absences and late arrivals will be considered in your course participation score.  
 
 If you have to miss the midterm exam, you will need to take a similar make-up exam during UCI's final exam period (I would assign a date and time). If at all possible, try to avoid this. There at least three reasons. First, I deliberately scheduled the class' only exam during a period in which you do not have to worry about other exams. Second, the make-up exam may also include the additional content we will have covered after the midterm exam. Third, the midterm exam is meant to prepare you for your final paper---you would miss an important opportunity to check your knowledge before finalizing your research project.   
 
 ### Staying focused during class
+
+Let's stay focused!
 
 Evidence from multiple randomized experiments indicates that students who take notes on their laptops or tablets learn less than those who take notes using pen/pencil and paper. They are also more likely to adversely affect their peers’ learning and grades (see Prof. Susan M. Dynarski’s [summary of the evidence](http://brook.gs/2vS6I3e)). Therefore, using a laptop or tablet is prohibited during class. 
 
@@ -292,10 +297,6 @@ There are only three exceptions:
 3. You have an [accommodation plan](https://dsc.uci.edu/accommodations/) requiring a tablet or laptop.
 
 Similarly, cell phone use is prohibited during class (unless I ask you to take out your phone). Please stow your phone away. 
-
-Finally, no eating is allowed during class. If you eat during class, you are likely to disrupt the classroom dynamic. You may bring a water bottle or coffee/tea in a covered container.
-
-Let's stay focused!
 
 ### Late assignments
 

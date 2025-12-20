@@ -18,11 +18,12 @@ As you've seen on the [syllabus](/syllabus.qmd) and [schedule](/schedule.qmd) pa
 | DAM 1             | Wed, Jan 28 09:00AM  | Mon, Feb 02 11:55PM |
 | Survey 2          | Wed, Feb 04 09:00AM  | Sun, Feb 08 11:55PM |
 | 1:1 meeting       |                      | Tue, Feb 10 05:00PM |
-| Exam              | Thu, Feb 12 02:30PM  | Thu, Feb 12 03:50PM |
+| Exam              | Thu, Feb 12 01:00PM  | Thu, Feb 12 02:50PM |
 | DAM 2             | Wed, Feb 11 09:00AM  | Mon, Feb 16 11:55PM |
 | Milestone 2       |                      | Sun, Mar 01 11:55PM |
 | DAM 3             | Wed, Feb 25 09:00AM  | Mon, Mar 02 11:55PM |
 | DAM 4             | Wed, Mar 04 09:00AM  | Mon, Mar 09 11:55PM |
+| 1:1 discussion    |                      | Fri, Mar 13 05:00PM |
 | Course evaluation |                      | Fri, Mar 13 11:50PM |
 | Final paper       |                      | Fri, Mar 20 11:55PM |
 
@@ -34,7 +35,7 @@ Also, to recap what you already saw on the [syllabus](/syllabus.qmd) page, here 
 |:-----------------------------------|:-----------------------|
 | Reading reactions                  | 9%                     |
 | Participation, surveys, feedback   | 6%                     |
-| Assignments and DAMs               | 30%                    |
+| Assignments and DAMs               | 30% (written, verbal)  |
 | Exam                               | 25%                    |
 | Milestones 1 & 2                   | 2% each                |
 | Your final paper                   | 26%                    |
