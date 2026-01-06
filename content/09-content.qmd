@@ -1,6 +1,6 @@
 ---
 title: "Difference in differences"
-date: "2025-03-05"
+date: "2026-03-04"
 ---
 
 ## Readings

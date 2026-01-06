@@ -1,6 +1,6 @@
 ---
 title: "Fixed effects, value added, and discrete outcomes"
-date: "2025-02-05"
+date: "2026-02-04"
 ---
 
 ## Readings

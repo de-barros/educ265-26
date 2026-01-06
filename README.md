@@ -12,7 +12,7 @@ University of California, Irvine
 **[Quarto](https://quarto.org/) +
 [{targets}](https://docs.ropensci.org/targets/) +
 [{renv}](https://rstudio.github.io/renv/) +
-[{xaringan}](https://github.com/yihui/xaringan) = magic! 🧝**
+[{xaringan}](https://github.com/yihui/xaringan) = magic! 🧙‍♀️**
 
 ------------------------------------------------------------------------
 
