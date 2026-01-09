@@ -39,24 +39,25 @@ withr::with_dir(here::here(), {
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ### Teaching assistant
 
-- {{< fa user >}} &nbsp; [{{< var assistant.name_no_title >}}]({{< var assistant.url >}})
-- {{< fa university >}} &nbsp; {{< var assistant.office >}}
-- {{< fa envelope >}} &nbsp; <a href="mailto:{{< var assistant.email >}}">{{< var assistant.email >}}</a>
-- {{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}} &nbsp; [Bluesky]({{< var assistant.bluesky >}})
+- [{{< fa user >}}]{.fa-li} [{{< var assistant.name_no_title >}}]({{< var assistant.url >}})
+- [{{< fa university >}}]{.fa-li} {{< var assistant.office >}}
+- [{{< fa envelope >}}]{.fa-li} <a href="mailto:{{< var assistant.email >}}">{{< var assistant.email >}}</a>
+- [{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}]{.fa-li} [Bluesky]({{< var assistant.bluesky >}})
+- [{{< fa calendar-check >}}]{.fa-li} [Schedule an appointment]({{< var assistant.appointment_url >}})
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ### Course details
 
-- {{< fa calendar >}} &nbsp; {{< var course.days >}}
-- {{< fa calendar-alt >}} &nbsp; {{< var course.dates >}}
-- {{< fa clock >}} &nbsp; {{< var course.time >}}
-- {{< fa location-dot >}} &nbsp; {{< var course.location >}}
-- {{< ai publons >}} &nbsp; [Perusall]({{< var course.slack >}})
+- [{{< fa calendar >}}]{.fa-li} {{< var course.days >}}
+- [{{< fa calendar-alt >}}]{.fa-li} {{< var course.dates >}}
+- [{{< fa clock >}}]{.fa-li} {{< var course.time >}}
+- [{{< fa location-dot >}}]{.fa-li} {{< var course.location >}}
+- [{{< ai publons >}}]{.fa-li} [Perusall]({{< var course.slack >}})
 :::
 
 ::: {.g-col-12 .g-col-md-4 .contact-policy}
-### Contacting me
+### Contacting us
 
 {{< var instructor.contact_policy >}}
 :::
