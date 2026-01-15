@@ -35,7 +35,9 @@ Your research project must relate to your field of study. If you are a PhD stude
 
 ## Milestone 1
 
-By Milestone 1, you should have identified the study you would like to conduct, and you should have sourced the necessary data to do so. Also, you should have developed a good understanding of what covariates you will need to have access to.  
+By Milestone 1, you should have identified the study you would like to conduct, and you should have sourced the necessary data to do so.[^help] Also, you should have developed a good understanding of what covariates you will need to have access to.  
+
+[^help]: This data may come from one of your research projects. I provide additional resources on how to identify datasets [here](/resource/data.qmd).
 
 Here's a summary of what you'll need to submit for your first milestone (on Canvas). You should submit a PDF with a two-pager (or shorter document) that includes 
 
